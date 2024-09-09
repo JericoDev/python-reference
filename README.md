@@ -1,4 +1,7 @@
 # python-reference
+
+The Total Fare should be = Base Fare + (Extra Kilometer * Rate Per Kilometer)![Uploading image.png…]()
+
 ==================================================================================================================================
 Enter the distance traveled (in kilometers): 0
 
