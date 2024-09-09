@@ -9,7 +9,9 @@ Distance traveled: 0.00 km
 Extra kilometers charged: 0.00 km
 Total fare: PHP 40.00
 
-==================================================================================================================================
+========================================================================================================
+
+Enter the distance traveled (in kilometers): 10
 
 Enter the distance traveled (in kilometers): 10
 
@@ -19,4 +21,3 @@ Rate per additional kilometer: PHP 10.00
 Distance traveled: 10.00 km
 Extra kilometers charged: 9.00 km
 Total fare: PHP 130.00
-==========================
