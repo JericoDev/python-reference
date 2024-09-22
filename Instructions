@@ -1,25 +1,13 @@
-Basic Fare details
-Base Fare is 40
-Rate per Kilometer is 10
+- Instructions Quiz # 2
 
-User input for distance
-Enter the Distance traveled (in kilometers)
+- User will enter a value to withdraw
 
-Fare Calculation
+- When user enters -1 then the "Transaction is ended"
 
-If the value of the entered distance (in km) is 0, 1
-The Total Fare should be Base Fare only
-The Extra Kilometer is 0
+- When user enters a value higher than the input value then it will be "Insufficient funds! Your current balance is: 
+  (balance value)"
 
-If it is not 0 then 
-The Extra Kilometer should be Distance - 1
-The Total Fare should be = Base Fare + (Extra Kilometer * Rate Per Kilometer)
+- When user enters a valid inpue value then the input value will be subtracted from the entered balance value, hence, 
+  "Withdrawal successful! Your new balance is (balance value)"
 
-OUTPUT
-
-Base Fare
-Rate per Kilometer = 40
-Distance Traveled = 10
-Extra Kilometer = ?
-Total Fare = ?
-
+- When user balance is 0 then "Your balance is zero. No more withdrawals can be made."
