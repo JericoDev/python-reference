@@ -1,0 +1,13 @@
+- Instructions Quiz # 2
+
+- User will enter a value to withdraw
+
+- When user enters -1 then the "Transaction is ended"
+
+- When user enters a value higher than the input value then it will be "Insufficient funds! Your current balance is: 
+  (balance value)"
+
+- When user enters a valid inpue value then the input value will be subtracted from the entered balance value, hence, 
+  "Withdrawal successful! Your new balance is (balance value)"
+
+- When user balance is 0 then "Your balance is zero. No more withdrawals can be made."
